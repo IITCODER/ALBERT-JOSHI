@@ -3,7 +3,8 @@ We have prepared more than 20 GB of study material, including 1,000+ code exampl
 📚 Some notes are already available in Google Classroom, and students can start studying from there.
 🚀 Soon, we share the entire collection with the public     
 
-OPEN SOURCE LIFETIME!. SOON 1000 CODE (AI,ML,DL,NN and NLP) WILL PUBLISH.                                                                                                                                                                                                                                                                                                                                   Dear Students if any one interested then he can join the classes and ask problems related to code/placements: Our Google Classroom updates its content regularly, with new features and improvements released frequently.​ 
+OPEN SOURCE LIFETIME!. SOON 1000 CODE (AI,ML,DL,NN and NLP) WILL PUBLISH.                                                                                                                                                                                                                                                                                                            Dear Students if any one interested then he can join the classes and ask problems related to code/placements: 
+Our Google Classroom updates its content regularly, with new features and improvements released frequently.​ 
 
 ​Data Structure complete courses with GATE/Placements.
 https://classroom.google.com/c/NzMzNjYwNzgzMDAx?cjc=z3rales
@@ -56,10 +57,16 @@ Engineering Maths for GATE completes courses .
 https://classroom.google.com/c/NzMzNjYwOTU0MzU0?cjc=xquhnfr
 Course Files completes .
 https://drive.google.com/file/d/18SxhzSBdUcVc2Gv2WmUYvhBtRJXM8-JE/view?usp=drive_web
-ICT TOOLS completes courses done by us last 3 years. Such ICT Tools are available in every classroom for the last 3 years. https://classroom.google.com/c/NzQzODM2MjMzMjk1?cjc=vafcaua
-Mentoring and Day-to-Day Evaluations Update, Please note that mentoring and day-to-day evaluations are conducted regularly in every class, especially on Fridays or Saturdays. Even if a formal mentoring session doesn't take place, each and every student's participation, progress, and behavior are being closely observed and recorded by the faculty, complete proof .                                                                                                                                           COLAB CODE more than 100 programs completes courses for projects and research done by us.
+
+ICT TOOLS completes courses done by us last 3 years. Such ICT Tools are available in every classroom for the last 3 years. 
+https://classroom.google.com/c/NzQzODM2MjMzMjk1?cjc=vafcaua
+Mentoring and Day-to-Day Evaluations Update, Please note that mentoring and day-to-day evaluations are conducted regularly in every class, 
+especially on Fridays or Saturdays. Even if a formal mentoring session doesn't take place, each and every student's participation, progress, 
+and behavior are being closely observed and recorded by the faculty, complete proof .  
+
+COLAB CODE more than 100 programs completes courses for projects and research done by us.
 
 ​Nptel completes courses available in most of the classes done inside the classroom and provides deep explanations by us.​
 
-​ VIDEO completed for some topics . BEST OF LUCK. SHARE TO EVERYONE (WE UPDATE EVERY DAY)
+VIDEO completed for some topics . BEST OF LUCK. SHARE TO EVERYONE (WE UPDATE EVERY DAY)
 https://www.youtube.com/@Albertjoshi
